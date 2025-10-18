@@ -1,0 +1,2 @@
+# Savory-Bites-Sales-Performance-Analysis-Excel-Based-Data-Exploration-Dashboard
+A data analysis project focused on uncovering key business insights from a fictional restaurant’s sales data using Microsoft Excel. The analysis identifies best-selling products, top-performing managers, preferred payment methods, and regional performance to support data-driven business decisions and improve overall restaurant efficiency.
